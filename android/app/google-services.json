@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265934207111",
+    "project_id": "clotex-86e23",
+    "storage_bucket": "clotex-86e23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265934207111:android:62fcc90f11e017af74a022",
+        "android_client_info": {
+          "package_name": "com.example.clotex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvm74eGvxQm7pddB0kw4zSvrDnKI793Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
